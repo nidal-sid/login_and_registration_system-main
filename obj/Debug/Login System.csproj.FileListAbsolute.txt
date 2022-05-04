@@ -1,0 +1,13 @@
+C:\Users\Lea Said\source\repos\Login_Sys\Login System\bin\Debug\Login System.exe.config
+C:\Users\Lea Said\source\repos\Login_Sys\Login System\bin\Debug\Login System.exe
+C:\Users\Lea Said\source\repos\Login_Sys\Login System\bin\Debug\Login System.pdb
+C:\Users\Lea Said\source\repos\Login_Sys\Login System\obj\Debug\Login System.csproj.AssemblyReference.cache
+C:\Users\Lea Said\source\repos\Login_Sys\Login System\obj\Debug\Login System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lea Said\source\repos\Login_Sys\Login System\obj\Debug\Login_System.frmRegister.resources
+C:\Users\Lea Said\source\repos\Login_Sys\Login System\obj\Debug\Login_System.Properties.Resources.resources
+C:\Users\Lea Said\source\repos\Login_Sys\Login System\obj\Debug\Login System.csproj.GenerateResource.cache
+C:\Users\Lea Said\source\repos\Login_Sys\Login System\obj\Debug\Login System.csproj.CoreCompileInputs.cache
+C:\Users\Lea Said\source\repos\Login_Sys\Login System\obj\Debug\Login System.exe
+C:\Users\Lea Said\source\repos\Login_Sys\Login System\obj\Debug\Login System.pdb
+C:\Users\Lea Said\source\repos\Login_Sys\Login System\obj\Debug\Login_System.frmLogin.resources
+C:\Users\Lea Said\source\repos\Login_Sys\Login System\obj\Debug\Login_System.applycation.resources
